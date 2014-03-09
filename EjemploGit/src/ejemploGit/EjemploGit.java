@@ -8,7 +8,7 @@ public class EjemploGit {
 		y=7;
 	}
 	int suma(){
-		return x+y;
+		return x*y;
 	}
 
 	public static void main(String[] args) {
